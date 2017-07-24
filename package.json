@@ -1,0 +1,20 @@
+{
+  "name": "Node-Excersises",
+  "version": "1.0.0",
+  "description": "NodeJS Exercises being done as part of Codetrotters Web Development Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcpr765/Node-Excersises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcpr765/Node-Excersises/issues"
+  },
+  "homepage": "https://github.com/jcpr765/Node-Excersises#readme"
+}
